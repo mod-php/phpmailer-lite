@@ -2,6 +2,7 @@
     "name": "codegun/phpmailer-lite",
     "type": "library",
     "description": "PHPMailerLite By PHPMailer",
+    "homepage": "https://code.google.com/a/apache-extras.org/p/phpmailer/",
     "keywords": ["phpmailer"],
     "require": {
         "php": ">=5.0.0"
