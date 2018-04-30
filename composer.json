@@ -1,5 +1,5 @@
 {
-    "name": "codegun/phpmailer-lite",
+    "name": "mod/phpmailer-lite",
     "type": "library",
     "description": "PHPMailerLite By PHPMailer",
     "homepage": "https://code.google.com/a/apache-extras.org/p/phpmailer/",
